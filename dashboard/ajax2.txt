@@ -1,0 +1,10 @@
+<div id="demo">
+<h1> the service is online as long as the wheel is turning </h1>
+<ul class="icons">
+<a>
+<img src="assets/images/loading2.png" alt="" />
+<br>
+<button type="button" onclick="Stop()"> stop service </button>
+</a>
+</ul>
+</div>
